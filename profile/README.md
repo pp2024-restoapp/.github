@@ -19,3 +19,16 @@
 ## 🗂️ Proyectos anteriores
 - WEB: https://github.com/matiaspedernera/proyectoISPC
 - MÓVIL: https://github.com/matiaspedernera/RestoApp
+
+## ✏️ DOCUMENTACIÓN WIKIS
+
+[Wiki Aplicacion Web](https://github.com/pp2024-restoapp/aplicacionweb/wiki/)
+
+[Wiki Aplicacion Móvil](https://github.com/pp2024-restoapp/aplicacionmovil/wiki/)
+
+## ✅ Tableros Kanban
+
+[Aplicacion Web](https://github.com/orgs/pp2024-restoapp/projects/1)
+
+[Aplicacion Móvil](https://github.com/orgs/pp2024-restoapp/projects/2)
+
