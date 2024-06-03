@@ -24,9 +24,9 @@
 
 ## ✏️ DOCUMENTACIÓN WIKIS
 
-[Wiki Aplicacion Web](https://github.com/pp2024-restoapp/aplicacionweb/wiki/)
+[Ceremonias Aplicacion Web](https://github.com/pp2024-restoapp/aplicacionweb/wiki/Wiki-de-nuestra-Aplicaci%C3%B3n-Web)
 
-[Wiki Aplicacion Móvil](https://github.com/pp2024-restoapp/aplicacionmovil/wiki/)
+[Ceremonias Aplicacion Móvil](https://github.com/pp2024-restoapp/aplicacionmovil/wiki/Wiki-de-nuestra-aplicaci%C3%B3n-m%C3%B3vil)
 
 ## ✅ Tableros Kanban
 
