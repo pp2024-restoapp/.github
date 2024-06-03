@@ -26,7 +26,7 @@
 
 [Ceremonias Aplicacion Web](https://github.com/pp2024-restoapp/aplicacionweb/wiki/Wiki-de-nuestra-Aplicaci%C3%B3n-Web)
 
-[Ceremonias Aplicacion Móvil](https://github.com/pp2024-restoapp/aplicacionmovil/wiki/Wiki-de-nuestra-aplicaci%C3%B3n-m%C3%B3vil)
+[Ceremonias Aplicacion Móvil](https://github.com/pp2024-restoapp/aplicacionmovil/wiki/Ceremonias)
 
 ## ✅ Tableros Kanban
 
