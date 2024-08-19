@@ -36,5 +36,6 @@
 
 ## 🔍 Testing, 🔒 Seguridad y ♿ Accesibilidad 
 
-[Testing, Seguridad y Accesibilidad](https://github.com/pp2024-restoapp/aplicacionmovil/wiki/Testing,-Accesibilidad-y-Seguridad)
+[Testing, Seguridad y Accesibilidad](https://github.com/pp2024-restoapp/aplicacionmovil/wiki/Testing,-Seguridad,-y-Accesibilidad)
+
 
